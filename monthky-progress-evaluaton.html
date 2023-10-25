@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./monthky-progress-evaluaton.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Prociono:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inika:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="monthky-progress-evaluaton">
+      <div class="monthky-progress-evaluaton-child"></div>
+      <div class="monthly-progress-evaluation">Monthly progress Evaluation</div>
+      <div class="monthky-progress-evaluaton-item"></div>
+      <img
+        class="shutterstock-1293522544-1307x1-icon"
+        alt=""
+        src="./public/shutterstock-12935225441307x1536-1@2x.png"
+      />
+
+      <div class="monthky-progress-evaluaton-inner"></div>
+      <div class="date-of-birth">Date of Birth</div>
+      <div class="monthky-progress-evaluaton-child1"></div>
+      <div class="ddmmyyyy">DD/MM/YYYY</div>
+      <div class="heightcm">Height(CM)</div>
+      <div class="monthky-progress-evaluaton-child2"></div>
+      <div class="monthky-progress-evaluaton-child3"></div>
+      <div class="weightkg">Weight(KG)</div>
+      <div class="monthky-progress-evaluaton-child4"></div>
+      <div class="show-bmi">Show BMI</div>
+      <div class="bmi-monthly-chart">BMI Monthly Chart</div>
+      <img
+        class="vector-icon64"
+        alt=""
+        src="./public/vector.svg"
+        id="vectorIcon"
+      />
+
+      <div class="iphone-se-1">
+        <img class="iphone-se-1-child" alt="" src="./public/ellipse-1@2x.png" />
+
+        <img class="iphone-se-1-item" alt="" src="./public/ellipse-2@2x.png" />
+
+        <div class="gender">GENDER*</div>
+        <div class="girl">Girl</div>
+        <div class="boy">Boy</div>
+        <div class="date-of-birth1">DATE OF BIRTH*</div>
+        <div class="height-cm">HEIGHT (CM)*</div>
+        <div class="weight-kg">WEIGHT (KG)*</div>
+        <div class="iphone-se-1-inner"></div>
+        <div class="show-results">Show Results</div>
+        <img class="arrow-icon" alt="" src="./public/arrow-1.svg" />
+      </div>
+      <div class="monthky-progress-evaluaton-child5"></div>
+      <div class="vaccination2" id="vaccinationText">vaccination</div>
+      <div class="visit2" id="visitText">visit</div>
+      <div class="activites2" id="activitesText">activites</div>
+      <div class="track-kit6">
+        <span class="track-kit-txt-container2">
+          <p class="track-kit7">track kit</p>
+        </span>
+      </div>
+      <div class="growth-monitoring3" id="growthMonitoringText">
+        growth monitoring
+      </div>
+      <div class="contact-us3">contact us</div>
+      <div class="xyz-road-container5">
+        <p class="track-kit7">
+          34, xyz road , near abc Chandkheda , Ahmedabad ,
+        </p>
+        <p class="track-kit7">Gujarat 382424</p>
+        <p class="track-kit7">1234567890</p>
+        <p class="track-kit7">thiswebsite34@gmail.com</p>
+        <p class="blank-line16">&nbsp;</p>
+      </div>
+      <img
+        class="monthky-progress-evaluaton-child6"
+        alt=""
+        src="./public/rectangle-45@2x.png"
+      />
+
+      <div class="dashboard5" id="dashboardText">Dashboard</div>
+      <div class="resources6" id="resourcesText">Resources</div>
+      <div class="more5" id="moreText">More</div>
+      <div class="log-out4">Log Out</div>
+    </div>
+
+    <script>
+      var vectorIcon = document.getElementById("vectorIcon");
+      if (vectorIcon) {
+        vectorIcon.addEventListener("click", function (e) {
+          window.location.href = "./dashboard.html";
+        });
+      }
+      
+      var vaccinationText = document.getElementById("vaccinationText");
+      if (vaccinationText) {
+        vaccinationText.addEventListener("click", function (e) {
+          window.location.href = "./vaccine.html";
+        });
+      }
+      
+      var visitText = document.getElementById("visitText");
+      if (visitText) {
+        visitText.addEventListener("click", function (e) {
+          window.location.href = "./places-visited.html";
+        });
+      }
+      
+      var activitesText = document.getElementById("activitesText");
+      if (activitesText) {
+        activitesText.addEventListener("click", function (e) {
+          window.location.href = "./frame.html";
+        });
+      }
+      
+      var growthMonitoringText = document.getElementById("growthMonitoringText");
+      if (growthMonitoringText) {
+        growthMonitoringText.addEventListener("click", function (e) {
+          window.location.href = "./growth-monitoring.html";
+        });
+      }
+      
+      var dashboardText = document.getElementById("dashboardText");
+      if (dashboardText) {
+        dashboardText.addEventListener("click", function (e) {
+          window.location.href = "./dashboard.html";
+        });
+      }
+      
+      var resourcesText = document.getElementById("resourcesText");
+      if (resourcesText) {
+        resourcesText.addEventListener("click", function (e) {
+          window.location.href = "./resources.html";
+        });
+      }
+      
+      var moreText = document.getElementById("moreText");
+      if (moreText) {
+        moreText.addEventListener("click", function (e) {
+          window.location.href = "./more.html";
+        });
+      }
+      </script>
+  </body>
+</html>

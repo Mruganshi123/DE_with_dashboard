@@ -1,0 +1,213 @@
+.resources-child {
+  position: absolute;
+  top: 97.5px;
+  left: 465px;
+  border-radius: var(--br-3xs);
+  width: 434px;
+  height: 111px;
+}
+.art-craft,
+.resoureces {
+  position: absolute;
+  top: 134px;
+  left: 613px;
+  font-size: var(--font-size-13xl);
+}
+.art-craft {
+  top: 194px;
+  left: 191px;
+  display: inline-block;
+  width: 331px;
+  height: 71px;
+}
+.resources-item {
+  position: absolute;
+  top: 251px;
+  left: 186px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gainsboro-200);
+  width: 450px;
+  height: 186px;
+}
+.resources-child1,
+.resources-child2,
+.resources-inner {
+  position: absolute;
+  top: 516px;
+  left: 186px;
+  border-radius: var(--br-3xs);
+  width: 450px;
+  height: 187px;
+}
+.resources-child1,
+.resources-child2 {
+  left: 710px;
+}
+.resources-child2 {
+  top: 251px;
+  left: 708px;
+  background-color: var(--color-gainsboro-200);
+  height: 186px;
+}
+.nutrition-enriched-healthy,
+.other-awarness-videos {
+  position: absolute;
+  top: 467px;
+  left: 186px;
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+  width: 567px;
+  height: 49px;
+}
+.other-awarness-videos {
+  top: 738px;
+  left: 192px;
+  width: 416px;
+  height: 66px;
+}
+.resources-child3 {
+  position: absolute;
+  top: 0;
+  left: -12px;
+  background-color: var(--color-lightgray-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1452px;
+  height: 49px;
+}
+.vector-icon63 {
+  position: absolute;
+  height: 4.22%;
+  width: 3.19%;
+  top: 0;
+  right: 96.81%;
+  bottom: 95.78%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.resources-child4 {
+  position: absolute;
+  top: 841px;
+  left: 0;
+  background-color: var(--color-silver-200);
+  width: 1440px;
+  height: 231px;
+}
+.activites1,
+.vaccination1,
+.visit1 {
+  position: absolute;
+  top: 931px;
+  left: 791px;
+  display: inline-block;
+  width: 130px;
+  height: 28px;
+  cursor: pointer;
+}
+.activites1,
+.visit1 {
+  left: 1014px;
+  width: 47px;
+}
+.activites1 {
+  top: 984px;
+  left: 798px;
+  width: 96px;
+}
+.track-kit5 {
+  margin: 0;
+}
+.track-kit-txt-container1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.growth-monitoring2,
+.track-kit4 {
+  position: absolute;
+  top: 878px;
+  left: 791px;
+  display: flex;
+  align-items: center;
+  width: 92px;
+  height: 55px;
+}
+.growth-monitoring2 {
+  left: 1014px;
+  width: 208px;
+  height: 28px;
+  cursor: pointer;
+}
+.contact-us1 {
+  position: absolute;
+  top: 978px;
+  left: 1014px;
+  display: inline-block;
+  width: 120px;
+  height: 29px;
+}
+.blank-line1 {
+  margin: 0;
+  font-size: var(--font-size-5xl);
+}
+.xyz-road-container1 {
+  position: absolute;
+  top: 901px;
+  left: 248px;
+  font-family: var(--font-prociono);
+  display: inline-block;
+  width: 437px;
+  height: 92px;
+  font-size: var(--font-size-xl);
+}
+.resources-child5 {
+  position: absolute;
+  top: 893px;
+  left: 17px;
+  width: 217px;
+  height: 108px;
+  object-fit: cover;
+}
+.dashboard4,
+.resources5 {
+  display: inline-block;
+  height: 33px;
+}
+.dashboard4 {
+  position: absolute;
+  top: 9px;
+  left: 846px;
+  font-family: var(--font-poppins);
+  width: 157px;
+  cursor: pointer;
+}
+.resources5 {
+  left: 1024px;
+  width: 142px;
+}
+.log-out3,
+.more4,
+.resources5 {
+  position: absolute;
+  top: 9px;
+  font-family: var(--font-poppins);
+}
+.more4 {
+  left: 1187px;
+  cursor: pointer;
+}
+.log-out3 {
+  left: 1313px;
+}
+.resources4 {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  height: 1067px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

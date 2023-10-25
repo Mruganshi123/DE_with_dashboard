@@ -1,0 +1,644 @@
+.group-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50.69px;
+  background-color: var(--white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1284px;
+  height: 763px;
+}
+.log-in {
+  color: var(--color-steelblue);
+}
+.already-have-an-container {
+  position: absolute;
+  top: 682px;
+  left: 253px;
+  letter-spacing: -0.02em;
+  line-height: 140%;
+  display: inline-block;
+  width: 287px;
+  height: 30px;
+  cursor: pointer;
+  color: var(--color-black);
+}
+.login-button-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 3.53px;
+  background-color: var(--color-steelblue);
+}
+.create-account {
+  position: absolute;
+  width: 31.71%;
+  top: 24.92%;
+  left: 34.07%;
+  letter-spacing: -0.02em;
+  font-weight: 600;
+  display: inline-block;
+}
+.login-button {
+  position: absolute;
+  top: 466.5px;
+  left: 154.8px;
+  border-radius: 50.69px;
+  width: 469px;
+  height: 63px;
+  text-align: center;
+  color: var(--white);
+}
+.terms-and-privacy-policy-child {
+  position: relative;
+  border-radius: 1.41px;
+  border: 0.7px solid var(--strokes);
+  box-sizing: border-box;
+  width: 14.1px;
+  height: 14.1px;
+}
+.i-agree-to-container {
+  position: relative;
+  letter-spacing: -0.02em;
+  line-height: 140%;
+}
+.remember-me,
+.terms-and-privacy-policy {
+  position: absolute;
+  top: 425.5px;
+  left: 0;
+  border-radius: 50.69px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 8.47px;
+  font-size: 9.88px;
+}
+.remember-me {
+  top: 378.2px;
+}
+.group-child1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 3.53px;
+  border: 0.7px solid var(--color-black);
+  box-sizing: border-box;
+}
+.first-name1 {
+  position: absolute;
+  top: 31.27%;
+  left: 5.58%;
+  letter-spacing: -0.02em;
+  line-height: 140%;
+  display: none;
+}
+.rectangle-group {
+  position: relative;
+  width: 252.6px;
+  height: 33.9px;
+  font-size: 9.88px;
+}
+.entry-field1,
+.entry-field2,
+.entry-field3,
+.entry-field4,
+.entry-field5,
+.entry-field6 {
+  position: absolute;
+  top: 0.3px;
+  left: 0;
+  border-radius: 50.69px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 2.82px;
+}
+.entry-field2,
+.entry-field3,
+.entry-field4,
+.entry-field5,
+.entry-field6 {
+  top: 126.3px;
+}
+.entry-field3,
+.entry-field4,
+.entry-field5,
+.entry-field6 {
+  top: 252.3px;
+}
+.entry-field4,
+.entry-field5,
+.entry-field6 {
+  top: 252px;
+  left: 441px;
+}
+.entry-field5,
+.entry-field6 {
+  top: 124px;
+}
+.entry-field6 {
+  top: 0;
+}
+.calendar-month-outline-icon {
+  position: absolute;
+  top: 119px;
+  left: 638px;
+  border-radius: 50.69px;
+  width: 26.2px;
+  height: 26.2px;
+  overflow: hidden;
+}
+.entry-field,
+.form {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 693.6px;
+  height: 310px;
+}
+.form {
+  top: 131px;
+  height: 529.5px;
+  font-size: var(--font-size-mini);
+}
+.give-the-needed {
+  position: absolute;
+  top: 62px;
+  left: 234px;
+  font-size: 14px;
+  letter-spacing: -0.02em;
+  line-height: 140%;
+}
+.span {
+  font-size: 19.76px;
+  font-weight: 600;
+}
+.text {
+  position: absolute;
+  top: 0;
+  left: 273px;
+  border-radius: 50.69px;
+  width: 287.8px;
+  height: 88.6px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  font-size: var(--font-size-5xl);
+  color: var(--black);
+}
+.right,
+.right-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 693.6px;
+  height: 712px;
+}
+.right-wrapper {
+  top: 30px;
+  left: 40px;
+}
+.rectangle-parent,
+.signup-child {
+  position: absolute;
+  top: 137px;
+  left: 57px;
+  width: 1284px;
+  height: 763px;
+}
+.signup-child {
+  left: 807px;
+  border-radius: 51px;
+  width: 538px;
+  height: 771px;
+}
+.vector-icon1 {
+  position: absolute;
+  height: 3.13%;
+  width: 2.43%;
+  top: 15.82%;
+  right: 92.08%;
+  bottom: 81.05%;
+  left: 5.49%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.freepik-background-complete-icon,
+.freepik-floor-inject-60-icon,
+.freepik-plant-inject-60-icon {
+  position: absolute;
+  height: 73.64%;
+  width: 85.44%;
+  top: 6.81%;
+  right: 6.62%;
+  bottom: 19.55%;
+  left: 7.94%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.freepik-floor-inject-60-icon,
+.freepik-plant-inject-60-icon {
+  height: 0.1%;
+  width: 62.03%;
+  top: 90.57%;
+  right: 19.23%;
+  bottom: 9.33%;
+  left: 18.74%;
+}
+.freepik-plant-inject-60-icon {
+  height: 28.6%;
+  width: 16.62%;
+  top: 44.84%;
+  right: 19.83%;
+  bottom: 26.56%;
+  left: 63.55%;
+}
+.freepik-padlock-inject-60-icon,
+.vector-icon2,
+.vector-icon3,
+.vector-icon4 {
+  position: absolute;
+  height: 19.93%;
+  width: 16.66%;
+  top: 7.74%;
+  right: 20.75%;
+  bottom: 72.33%;
+  left: 62.59%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon2,
+.vector-icon3,
+.vector-icon4 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.vector-icon3,
+.vector-icon4 {
+  height: 93.5%;
+  width: 90.78%;
+  top: 2.97%;
+  right: 4.61%;
+  bottom: 3.53%;
+  left: 4.61%;
+}
+.vector-icon4 {
+  height: 7.97%;
+  width: 53.31%;
+  top: 77.42%;
+  right: 23.31%;
+  bottom: 14.61%;
+  left: 23.38%;
+}
+.sing-up {
+  position: absolute;
+  height: 3.45%;
+  width: 23.31%;
+  top: 79.37%;
+  left: 38.25%;
+  display: inline-block;
+}
+.vector-icon5 {
+  height: 1.64%;
+  width: 17.79%;
+  top: 27.44%;
+  right: 65.45%;
+  bottom: 70.92%;
+  left: 16.75%;
+}
+.vector-icon5,
+.vector-icon6,
+.vector-icon7,
+.vector-icon8,
+.vector-icon9 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon6 {
+  height: 1.64%;
+  width: 17.79%;
+  top: 27.44%;
+  right: 65.45%;
+  bottom: 70.92%;
+  left: 16.75%;
+  opacity: 0.1;
+}
+.vector-icon7,
+.vector-icon8,
+.vector-icon9 {
+  height: 5.99%;
+  width: 71.49%;
+  top: 31.34%;
+  right: 12.01%;
+  bottom: 62.67%;
+  left: 16.49%;
+}
+.vector-icon8,
+.vector-icon9 {
+  height: 1.5%;
+  width: 32.53%;
+  top: 33.26%;
+  right: 45.39%;
+  bottom: 65.24%;
+  left: 22.08%;
+}
+.vector-icon9 {
+  opacity: 0.2;
+}
+.vector-icon10 {
+  height: 1.64%;
+  width: 17.79%;
+  top: 42.07%;
+  right: 65.58%;
+  bottom: 56.29%;
+  left: 16.62%;
+}
+.vector-icon10,
+.vector-icon11,
+.vector-icon12 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon11 {
+  height: 1.64%;
+  width: 17.79%;
+  top: 42.07%;
+  right: 65.58%;
+  bottom: 56.29%;
+  left: 16.62%;
+  opacity: 0.1;
+}
+.vector-icon12 {
+  height: 5.96%;
+  width: 71.49%;
+  top: 46%;
+  right: 12.14%;
+  bottom: 48.04%;
+  left: 16.36%;
+}
+.vector-icon13 {
+  height: 1.64%;
+  width: 17.79%;
+  top: 57.33%;
+  right: 65.71%;
+  bottom: 41.03%;
+  left: 16.49%;
+}
+.vector-icon13,
+.vector-icon14,
+.vector-icon15 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon14 {
+  height: 1.64%;
+  width: 17.79%;
+  top: 57.33%;
+  right: 65.71%;
+  bottom: 41.03%;
+  left: 16.49%;
+  opacity: 0.1;
+}
+.vector-icon15 {
+  height: 5.99%;
+  width: 71.49%;
+  top: 61.2%;
+  right: 12.27%;
+  bottom: 32.81%;
+  left: 16.23%;
+}
+.vector-icon16 {
+  height: 1.58%;
+  width: 32.6%;
+  top: 48.23%;
+  right: 46.04%;
+  bottom: 50.18%;
+  left: 21.36%;
+}
+.vector-icon16,
+.vector-icon17,
+.vector-icon18,
+.vector-icon19,
+.vector-icon20 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon17 {
+  height: 1.58%;
+  width: 32.6%;
+  top: 48.23%;
+  right: 46.04%;
+  bottom: 50.18%;
+  left: 21.36%;
+  opacity: 0.2;
+}
+.vector-icon18,
+.vector-icon19,
+.vector-icon20 {
+  height: 1.41%;
+  width: 2.86%;
+  top: 63.69%;
+  right: 75.65%;
+  bottom: 34.9%;
+  left: 21.49%;
+}
+.vector-icon19,
+.vector-icon20 {
+  height: 1.5%;
+  right: 71.23%;
+  bottom: 34.81%;
+  left: 25.91%;
+}
+.vector-icon20 {
+  height: 1.41%;
+  right: 66.82%;
+  bottom: 34.9%;
+  left: 30.32%;
+}
+.group-icon,
+.vector-icon21,
+.vector-icon22,
+.vector-icon23,
+.vector-icon24,
+.vector-icon25,
+.vector-icon26 {
+  position: absolute;
+  height: 1.41%;
+  width: 2.86%;
+  top: 63.72%;
+  right: 62.4%;
+  bottom: 34.87%;
+  left: 34.74%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-icon,
+.vector-icon22,
+.vector-icon23,
+.vector-icon24,
+.vector-icon25,
+.vector-icon26 {
+  right: 57.99%;
+  left: 39.16%;
+}
+.group-icon,
+.vector-icon23,
+.vector-icon24,
+.vector-icon25,
+.vector-icon26 {
+  top: 63.75%;
+  right: 53.57%;
+  bottom: 34.84%;
+  left: 43.57%;
+}
+.group-icon,
+.vector-icon24,
+.vector-icon25,
+.vector-icon26 {
+  height: 1.5%;
+  right: 49.16%;
+  bottom: 34.76%;
+  left: 47.99%;
+}
+.group-icon,
+.vector-icon25,
+.vector-icon26 {
+  height: 1.41%;
+  right: 44.81%;
+  bottom: 34.84%;
+  left: 52.34%;
+}
+.group-icon,
+.vector-icon26 {
+  top: 63.78%;
+  right: 40.39%;
+  bottom: 34.81%;
+  left: 56.75%;
+}
+.group-icon {
+  height: 1.55%;
+  width: 38.12%;
+  top: 63.69%;
+  bottom: 34.76%;
+  left: 21.49%;
+  opacity: 0.2;
+}
+.vector-icon27 {
+  height: 4.92%;
+  width: 9.16%;
+  top: 12.97%;
+  right: 42.99%;
+  bottom: 82.11%;
+  left: 47.86%;
+}
+.vector-icon27,
+.vector-icon28,
+.vector-icon29,
+.vector-icon30 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon28 {
+  height: 4.92%;
+  width: 9.16%;
+  top: 12.97%;
+  right: 42.99%;
+  bottom: 82.11%;
+  left: 47.86%;
+  opacity: 0.1;
+}
+.vector-icon29,
+.vector-icon30 {
+  height: 1.98%;
+  width: 32.66%;
+  top: 19.13%;
+  right: 31.75%;
+  bottom: 78.89%;
+  left: 35.58%;
+}
+.vector-icon30 {
+  opacity: 0.2;
+}
+.freepik-device-inject-60 {
+  position: absolute;
+  height: 58.89%;
+  width: 28.89%;
+  top: 16.59%;
+  right: 31.63%;
+  bottom: 24.53%;
+  left: 39.47%;
+}
+.freepik-character-inject-60-icon,
+.freepik-speech-bubble-inject-icon {
+  position: absolute;
+  height: 11.71%;
+  width: 10.32%;
+  top: 33.74%;
+  right: 70.34%;
+  bottom: 54.54%;
+  left: 19.34%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.freepik-character-inject-60-icon {
+  height: 55.67%;
+  width: 28.65%;
+  top: 34.93%;
+  right: 46.87%;
+  bottom: 9.4%;
+  left: 24.48%;
+}
+.mobile-login-pana-2 {
+  position: absolute;
+  top: 256px;
+  left: 808px;
+  width: 533px;
+  height: 601px;
+  overflow: hidden;
+  font-size: 10.38px;
+  color: var(--color-gainsboro-100);
+  font-family: var(--font-inter);
+}
+.signup {
+  position: relative;
+  background-color: #f2f2f2;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--body-text);
+  font-family: var(--font-poppins);
+}

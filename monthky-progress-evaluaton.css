@@ -1,0 +1,381 @@
+.monthky-progress-evaluaton-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-lightgray-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1440px;
+  height: 49px;
+}
+.monthly-progress-evaluation {
+  position: absolute;
+  top: 69px;
+  left: 51px;
+  font-size: var(--font-size-21xl);
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  display: flex;
+  align-items: center;
+  width: 593px;
+  height: 70px;
+}
+.monthky-progress-evaluaton-item {
+  position: absolute;
+  bottom: 257px;
+  left: 51px;
+  background-color: var(--white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 715px;
+  height: 608px;
+}
+.shutterstock-1293522544-1307x1-icon {
+  position: absolute;
+  top: 405px;
+  left: 285px;
+  width: 247px;
+  height: 305px;
+  object-fit: cover;
+}
+.monthky-progress-evaluaton-inner {
+  position: absolute;
+  top: 159px;
+  left: 814px;
+  background-color: var(--white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 541px;
+  height: 608px;
+}
+.date-of-birth {
+  position: absolute;
+  top: 159px;
+  left: calc(50% + 237px);
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-poppins);
+  display: flex;
+  align-items: center;
+  width: 260px;
+  height: 58px;
+}
+.monthky-progress-evaluaton-child1 {
+  position: absolute;
+  top: 245px;
+  left: 903px;
+  background-color: var(--color-silver-200);
+  width: 363px;
+  height: 58px;
+}
+.ddmmyyyy,
+.heightcm {
+  position: absolute;
+  top: 245px;
+  left: 909px;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-prociono);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 354px;
+  height: 52px;
+}
+.heightcm {
+  top: 331px;
+  left: 882px;
+  font-size: var(--font-size-21xl);
+  width: 408px;
+  height: 45px;
+}
+.monthky-progress-evaluaton-child2,
+.monthky-progress-evaluaton-child3 {
+  position: absolute;
+  top: 395px;
+  left: 905px;
+  background-color: var(--color-silver-200);
+  width: 363px;
+  height: 52px;
+}
+.monthky-progress-evaluaton-child3 {
+  top: 518px;
+  left: 903px;
+}
+.weightkg {
+  position: absolute;
+  top: 459px;
+  left: 926px;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-prociono);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 322px;
+  height: 53px;
+}
+.monthky-progress-evaluaton-child4 {
+  position: absolute;
+  top: 665px;
+  left: 909px;
+  border-radius: 50%;
+  background-color: var(--color-silver-200);
+  width: 357px;
+  height: 58px;
+}
+.bmi-monthly-chart,
+.show-bmi {
+  position: absolute;
+  top: 680px;
+  left: 952px;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-prociono);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 265px;
+  height: 29px;
+}
+.bmi-monthly-chart {
+  top: 165px;
+  left: 107px;
+  color: var(--white);
+  width: 552px;
+  height: 71px;
+}
+.vector-icon64 {
+  position: absolute;
+  height: 4.39%;
+  width: 3.19%;
+  top: 0.39%;
+  right: 96.81%;
+  bottom: 95.21%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.iphone-se-1-child,
+.iphone-se-1-item {
+  position: absolute;
+  top: 96px;
+  left: 176px;
+  border-radius: 50%;
+  width: 77px;
+  height: 69px;
+  object-fit: cover;
+}
+.iphone-se-1-item {
+  top: 91px;
+  left: 67px;
+  width: 73px;
+  height: 74px;
+}
+.boy,
+.gender,
+.girl {
+  position: absolute;
+  top: 61px;
+  left: 128px;
+  display: inline-block;
+  width: 102px;
+  height: 30px;
+}
+.boy,
+.girl {
+  top: 181px;
+  left: 88px;
+  color: var(--color-black);
+  width: 64px;
+  height: 22px;
+}
+.boy {
+  left: 201px;
+  width: 68px;
+  height: 19px;
+}
+.date-of-birth1,
+.height-cm,
+.weight-kg {
+  position: absolute;
+  top: 240px;
+  left: 103px;
+  display: inline-block;
+  width: 180px;
+  height: 24px;
+}
+.height-cm,
+.weight-kg {
+  top: 329px;
+  left: 115px;
+  width: 138px;
+  height: 26px;
+}
+.weight-kg {
+  top: 421px;
+  width: 115px;
+  height: 24px;
+}
+.iphone-se-1-inner {
+  position: absolute;
+  top: 507px;
+  left: 83px;
+  border-radius: var(--br-31xl);
+  background-color: #15129c;
+  width: 165px;
+  height: 38px;
+}
+.show-results {
+  position: absolute;
+  top: 518px;
+  left: 106px;
+  font-weight: 600;
+  color: var(--white);
+  display: inline-block;
+  width: 124px;
+  height: 36px;
+}
+.arrow-icon,
+.iphone-se-1 {
+  position: absolute;
+  top: 526px;
+  left: 220px;
+  width: 17px;
+  height: 0;
+}
+.iphone-se-1 {
+  top: 169px;
+  left: 242px;
+  border-radius: var(--br-31xl);
+  background-color: var(--white);
+  width: 320px;
+  height: 231px;
+  overflow: hidden;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-200);
+}
+.monthky-progress-evaluaton-child5 {
+  position: absolute;
+  top: 793px;
+  left: 0;
+  background-color: var(--color-silver-200);
+  width: 1440px;
+  height: 231px;
+}
+.activites2,
+.vaccination2,
+.visit2 {
+  position: absolute;
+  top: 883px;
+  left: 791px;
+  display: inline-block;
+  width: 130px;
+  height: 28px;
+  cursor: pointer;
+}
+.activites2,
+.visit2 {
+  left: 1014px;
+  width: 47px;
+}
+.activites2 {
+  top: 936px;
+  left: 798px;
+  width: 96px;
+}
+.track-kit7 {
+  margin: 0;
+}
+.track-kit-txt-container2 {
+  line-break: anywhere;
+  width: 100%;
+}
+.growth-monitoring3,
+.track-kit6 {
+  position: absolute;
+  top: 830px;
+  left: 791px;
+  display: flex;
+  align-items: center;
+  width: 92px;
+  height: 55px;
+}
+.growth-monitoring3 {
+  left: 1014px;
+  width: 208px;
+  height: 28px;
+  cursor: pointer;
+}
+.contact-us3 {
+  position: absolute;
+  top: 930px;
+  left: 1014px;
+  display: inline-block;
+  width: 120px;
+  height: 29px;
+}
+.blank-line16 {
+  margin: 0;
+  font-size: var(--font-size-5xl);
+}
+.xyz-road-container5 {
+  position: absolute;
+  top: 853px;
+  left: 248px;
+  font-family: var(--font-prociono);
+  display: inline-block;
+  width: 437px;
+  height: 92px;
+  font-size: var(--font-size-xl);
+}
+.monthky-progress-evaluaton-child6 {
+  position: absolute;
+  top: 845px;
+  left: 17px;
+  width: 217px;
+  height: 108px;
+  object-fit: cover;
+}
+.dashboard5,
+.resources6 {
+  display: inline-block;
+  height: 33px;
+  cursor: pointer;
+}
+.dashboard5 {
+  position: absolute;
+  top: 13px;
+  left: 837px;
+  font-family: var(--font-poppins);
+  width: 157px;
+}
+.resources6 {
+  left: 1015px;
+  width: 142px;
+}
+.log-out4,
+.more5,
+.resources6 {
+  position: absolute;
+  top: 13px;
+  font-family: var(--font-poppins);
+}
+.more5 {
+  left: 1178px;
+  cursor: pointer;
+}
+.log-out4 {
+  left: 1304px;
+}
+.monthky-progress-evaluaton {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

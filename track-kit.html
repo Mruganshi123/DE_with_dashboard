@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./track-kit.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Prociono:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inika:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="track-kit1">
+      <div class="track-kit-child"></div>
+      <div class="track-kit-item"></div>
+      <div class="track-the-kit">track the kit</div>
+      <div class="track-kit-inner">
+        <div class="group-child14"></div>
+      </div>
+      <div class="rectangle-parent9">
+        <div class="group-child14"></div>
+        <div class="date-of-arrival">date of arrival</div>
+      </div>
+      <div class="track-kit-inner1">
+        <div class="group-child14"></div>
+      </div>
+      <div class="ellipse-div"></div>
+      <img class="ellipse-icon" alt="" src="./public/ellipse-3.svg" />
+
+      <img class="track-kit-child1" alt="" src="./public/ellipse-5.svg" />
+
+      <div class="track-kit-child2"></div>
+      <div class="track-kit-child3"></div>
+      <img class="foodkit-1-icon" alt="" src="./public/foodkit-1@2x.png" />
+
+      <div class="kit-granted">kit granted</div>
+      <div class="aug-23">aug 23</div>
+      <img class="track-kit-child4" alt="" src="./public/rectangle-33.svg" />
+
+      <img class="foodkit-2-icon" alt="" src="./public/foodkit-2@2x.png" />
+
+      <div class="type-of-kitdetails">type of kit/details</div>
+      <div class="arrived-at-centre">arrived at centre</div>
+      <div class="track-kit-child5"></div>
+      <div class="dashboard1">Dashboard</div>
+      <div class="dashboard2" data-scroll-to="dashboardText" id="dashboardText">
+        Dashboard
+      </div>
+      <div class="resources1" id="resourcesText">Resources</div>
+      <div class="resources2">Resources</div>
+      <img
+        class="vector-icon61"
+        alt=""
+        src="./public/vector.svg"
+        id="vectorIcon"
+      />
+
+      <div class="track-kit-child6"></div>
+      <div class="vaccination" id="vaccinationText">vaccination</div>
+      <div class="visit" id="visitText">visit</div>
+      <div class="activites" id="activitesText">activites</div>
+      <div class="track-kit2">
+        <span class="track-kit-txt-container">
+          <p class="xyz-road">track kit</p>
+        </span>
+      </div>
+      <div class="growth-monitoring1" id="growthMonitoringText">
+        growth monitoring
+      </div>
+      <div class="contact-us">contact us</div>
+      <div class="xyz-road-container">
+        <p class="xyz-road">34, xyz road , near abc Chandkheda , Ahmedabad ,</p>
+        <p class="xyz-road">Gujarat 382424</p>
+        <p class="xyz-road">1234567890</p>
+        <p class="xyz-road">thiswebsite34@gmail.com</p>
+        <p class="blank-line">&nbsp;</p>
+      </div>
+      <img class="track-kit-child7" alt="" src="./public/rectangle-45@2x.png" />
+
+      <div class="more1">More</div>
+      <div class="more2" id="moreText1">More</div>
+      <div class="log-out1">Log Out</div>
+    </div>
+
+    <script>
+      var dashboardText = document.getElementById("dashboardText");
+      if (dashboardText) {
+        dashboardText.addEventListener("click", function (e) {
+          window.location.href = "./dashboard.html";
+        });
+      }
+      
+      var resourcesText = document.getElementById("resourcesText");
+      if (resourcesText) {
+        resourcesText.addEventListener("click", function () {
+          var anchor = document.querySelector("[data-scroll-to='dashboardText']");
+          if (anchor) {
+            anchor.scrollIntoView({ block: "start", behavior: "smooth" });
+          }
+        });
+      }
+      
+      var vectorIcon = document.getElementById("vectorIcon");
+      if (vectorIcon) {
+        vectorIcon.addEventListener("click", function (e) {
+          window.location.href = "./dashboard.html";
+        });
+      }
+      
+      var vaccinationText = document.getElementById("vaccinationText");
+      if (vaccinationText) {
+        vaccinationText.addEventListener("click", function (e) {
+          window.location.href = "./vaccine.html";
+        });
+      }
+      
+      var visitText = document.getElementById("visitText");
+      if (visitText) {
+        visitText.addEventListener("click", function (e) {
+          window.location.href = "./places-visited.html";
+        });
+      }
+      
+      var activitesText = document.getElementById("activitesText");
+      if (activitesText) {
+        activitesText.addEventListener("click", function (e) {
+          window.location.href = "./frame.html";
+        });
+      }
+      
+      var growthMonitoringText = document.getElementById("growthMonitoringText");
+      if (growthMonitoringText) {
+        growthMonitoringText.addEventListener("click", function (e) {
+          window.location.href = "./growth-monitoring.html";
+        });
+      }
+      
+      var moreText1 = document.getElementById("moreText1");
+      if (moreText1) {
+        moreText1.addEventListener("click", function (e) {
+          window.location.href = "./more.html";
+        });
+      }
+      </script>
+  </body>
+</html>

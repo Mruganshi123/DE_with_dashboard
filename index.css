@@ -1,0 +1,166 @@
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #fffbfb;
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 352px;
+  height: 64px;
+}
+.more-inner {
+  top: 71px;
+}
+.group-div,
+.more-child,
+.more-child1,
+.more-inner,
+.more-item,
+.rectangle-div {
+  position: absolute;
+  left: 544px;
+  width: 352px;
+  height: 64px;
+  cursor: pointer;
+}
+.more-child {
+  top: 342px;
+  border-radius: var(--br-8xs);
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #fffbfb;
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.group-div,
+.more-child1,
+.more-item,
+.rectangle-div {
+  top: 164px;
+}
+.more-child1,
+.more-item,
+.rectangle-div {
+  top: 620px;
+  border-radius: var(--br-8xs);
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #fffbfb;
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.more-child1,
+.rectangle-div {
+  top: 525px;
+  left: 545px;
+}
+.more-child1 {
+  top: 428px;
+}
+.rectangle-icon,
+.track-kit {
+  position: absolute;
+  top: 180px;
+  left: 682px;
+}
+.rectangle-icon {
+  top: 249px;
+  left: 544px;
+  border-radius: var(--br-8xs);
+  width: 352px;
+  height: 64px;
+  cursor: pointer;
+}
+.activities,
+.vaccine-details {
+  position: absolute;
+  top: 542px;
+  left: 649px;
+}
+.activities {
+  top: 273px;
+  left: 678px;
+}
+.monthly-progress {
+  position: absolute;
+  top: 363px;
+  left: 637px;
+}
+.dashboard,
+.growth-monitoring {
+  position: absolute;
+  top: 448px;
+  left: 626px;
+}
+.dashboard {
+  top: 84px;
+  left: 670px;
+  cursor: pointer;
+}
+.resources {
+  position: absolute;
+  top: 640px;
+  left: 665px;
+}
+.more-child2,
+.more-child3 {
+  position: absolute;
+  left: 545px;
+  border-radius: var(--br-8xs);
+  width: 352px;
+  height: 64px;
+}
+.more-child2 {
+  top: 709px;
+  cursor: pointer;
+}
+.more-child3 {
+  top: 804px;
+}
+.more-child4,
+.profile {
+  position: absolute;
+  top: 829px;
+  left: 685px;
+}
+.more-child4 {
+  top: 2px;
+  left: 0;
+  background-color: var(--color-lightgray-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1463px;
+  height: 49px;
+}
+.vector-icon {
+  position: absolute;
+  height: 4.39%;
+  width: 3.19%;
+  top: 0.59%;
+  right: 96.81%;
+  bottom: 95.02%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.log-out {
+  position: absolute;
+  top: 10px;
+  left: 1323px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-poppins);
+}
+.places-visited {
+  position: absolute;
+  top: 732px;
+  left: 661px;
+}
+.more {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

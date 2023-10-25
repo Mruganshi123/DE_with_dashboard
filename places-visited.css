@@ -1,0 +1,257 @@
+.home-visit,
+.need-of-vaccine,
+.places-visited-in {
+  position: absolute;
+  top: 93px;
+  left: 402px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-darkslategray-100);
+  text-align: center;
+  display: inline-block;
+  width: 490px;
+  height: 43px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.home-visit,
+.need-of-vaccine {
+  top: 329px;
+  left: 475px;
+  width: 301px;
+}
+.need-of-vaccine {
+  top: 558px;
+  left: 434px;
+  width: 410px;
+}
+.places-visited-child,
+.places-visited-item {
+  position: absolute;
+  top: 146px;
+  left: 103px;
+  width: 217px;
+  height: 168px;
+  object-fit: cover;
+}
+.places-visited-item {
+  top: 372px;
+}
+.name-of-the,
+.name-of-the1 {
+  position: absolute;
+  top: 180px;
+  left: 390px;
+  display: inline-block;
+  width: 268px;
+  height: 24px;
+}
+.name-of-the1 {
+  top: 417px;
+  left: 800px;
+  width: 290px;
+}
+.date-of-visit,
+.date-of-visit1 {
+  position: absolute;
+  top: 180px;
+  left: 800px;
+  display: flex;
+  align-items: center;
+  width: 249px;
+}
+.date-of-visit1 {
+  top: 417px;
+  left: 390px;
+}
+.places-visited-child1,
+.places-visited-child2,
+.places-visited-child3,
+.places-visited-inner {
+  position: absolute;
+  top: 230px;
+  left: 390px;
+  background-color: var(--color-silver-200);
+  width: 290px;
+  height: 20px;
+}
+.places-visited-child1,
+.places-visited-child2,
+.places-visited-child3 {
+  top: 461px;
+  left: 803px;
+  height: 34px;
+}
+.places-visited-child2,
+.places-visited-child3 {
+  top: 230px;
+  left: 804px;
+  width: 252px;
+  height: 20px;
+}
+.places-visited-child3 {
+  top: 461px;
+  left: 390px;
+  height: 34px;
+}
+.places-visited-child4 {
+  position: absolute;
+  top: 646px;
+  left: 126px;
+  width: 1042px;
+  height: 239px;
+}
+.places-visited-child5 {
+  position: absolute;
+  top: 0;
+  left: -1px;
+  background-color: var(--color-lightgray-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1250px;
+  height: 49px;
+}
+.vector-icon65 {
+  position: absolute;
+  height: 3.64%;
+  width: 3.68%;
+  top: 0.16%;
+  right: 96.32%;
+  bottom: 96.19%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.places-visited-child6 {
+  position: absolute;
+  top: 1011px;
+  left: 1px;
+  background-color: var(--color-silver-200);
+  width: 1250px;
+  height: 231px;
+}
+.activites3,
+.vaccination3,
+.visit3 {
+  position: absolute;
+  font-family: var(--font-inter);
+  display: inline-block;
+  height: 28px;
+}
+.vaccination3 {
+  top: 1118px;
+  left: 710px;
+  width: 130px;
+  cursor: pointer;
+}
+.activites3,
+.visit3 {
+  top: 1112px;
+  left: 927px;
+  width: 47px;
+}
+.activites3 {
+  top: 1171px;
+  left: 717px;
+  width: 96px;
+  cursor: pointer;
+}
+.track-kit9 {
+  margin: 0;
+}
+.track-kit-txt-container3 {
+  line-break: anywhere;
+  width: 100%;
+}
+.track-kit8 {
+  top: 1065px;
+  left: 710px;
+  display: flex;
+  align-items: center;
+  width: 92px;
+  height: 55px;
+}
+.contact-us4,
+.growth-monitoring4,
+.track-kit8 {
+  position: absolute;
+  font-family: var(--font-inter);
+}
+.growth-monitoring4 {
+  top: 1064px;
+  left: 925px;
+  display: flex;
+  align-items: center;
+  width: 208px;
+  height: 28px;
+  cursor: pointer;
+}
+.contact-us4 {
+  top: 1165px;
+  left: 933px;
+  display: inline-block;
+  width: 120px;
+  height: 29px;
+}
+.blank-line17 {
+  margin: 0;
+  font-size: var(--font-size-5xl);
+}
+.xyz-road-container6 {
+  position: absolute;
+  top: 1071px;
+  left: 254px;
+  display: inline-block;
+  width: 437px;
+  height: 92px;
+  font-size: var(--font-size-xl);
+}
+.places-visited-child7 {
+  position: absolute;
+  top: 1063px;
+  left: 23px;
+  width: 217px;
+  height: 108px;
+  object-fit: cover;
+}
+.dashboard6,
+.resources7 {
+  display: inline-block;
+  height: 33px;
+  cursor: pointer;
+}
+.dashboard6 {
+  position: absolute;
+  top: 13px;
+  left: 649px;
+  font-family: var(--font-poppins);
+  width: 157px;
+}
+.resources7 {
+  left: 827px;
+  width: 142px;
+}
+.log-out5,
+.more6,
+.resources7 {
+  position: absolute;
+  top: 13px;
+  font-family: var(--font-poppins);
+}
+.more6 {
+  left: 990px;
+  cursor: pointer;
+}
+.log-out5 {
+  left: 1116px;
+}
+.places-visited1 {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  height: 1235px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-prociono);
+}

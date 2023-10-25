@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./index.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Prociono:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inika:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="more">
+      <div class="more-inner" id="groupContainer">
+        <div class="group-child"></div>
+      </div>
+      <div class="more-child" id="rectangle1"></div>
+      <div class="group-div" id="groupContainer1">
+        <div class="group-child"></div>
+      </div>
+      <div class="more-item" id="rectangle3"></div>
+      <div class="rectangle-div" id="rectangle4"></div>
+      <div class="more-child1" id="rectangle5"></div>
+      <div class="track-kit">track kit</div>
+      <img
+        class="rectangle-icon"
+        alt=""
+        src="./public/rectangle-4.svg"
+        id="rectangle6"
+      />
+
+      <div class="vaccine-details">vaccine details</div>
+      <div class="activities">activities</div>
+      <div class="monthly-progress">monthly progress</div>
+      <div class="growth-monitoring">Growth Monitoring</div>
+      <div class="dashboard" id="dashboardText">dashboard</div>
+      <div class="resources">resources</div>
+      <img
+        class="more-child2"
+        alt=""
+        src="./public/rectangle-4.svg"
+        id="rectangle7"
+      />
+
+      <img class="more-child3" alt="" src="./public/rectangle-4.svg" />
+
+      <div class="profile">profile</div>
+      <div class="more-child4"></div>
+      <img
+        class="vector-icon"
+        alt=""
+        src="./public/vector.svg"
+        id="vectorIcon"
+      />
+
+      <div class="log-out">Log Out</div>
+      <div class="places-visited">places visited</div>
+    </div>
+
+    <script>
+      var groupContainer = document.getElementById("groupContainer");
+      if (groupContainer) {
+        groupContainer.addEventListener("click", function (e) {
+          window.location.href = "./dashboard.html";
+        });
+      }
+      
+      var rectangle1 = document.getElementById("rectangle1");
+      if (rectangle1) {
+        rectangle1.addEventListener("click", function (e) {
+          window.location.href = "./monthky-progress-evaluaton.html";
+        });
+      }
+      
+      var groupContainer1 = document.getElementById("groupContainer1");
+      if (groupContainer1) {
+        groupContainer1.addEventListener("click", function (e) {
+          window.location.href = "./track-kit.html";
+        });
+      }
+      
+      var rectangle3 = document.getElementById("rectangle3");
+      if (rectangle3) {
+        rectangle3.addEventListener("click", function (e) {
+          window.location.href = "./resources.html";
+        });
+      }
+      
+      var rectangle4 = document.getElementById("rectangle4");
+      if (rectangle4) {
+        rectangle4.addEventListener("click", function (e) {
+          window.location.href = "./vaccine.html";
+        });
+      }
+      
+      var rectangle5 = document.getElementById("rectangle5");
+      if (rectangle5) {
+        rectangle5.addEventListener("click", function (e) {
+          window.location.href = "./frame.html";
+        });
+      }
+      
+      var rectangle6 = document.getElementById("rectangle6");
+      if (rectangle6) {
+        rectangle6.addEventListener("click", function (e) {
+          window.location.href = "./frame.html";
+        });
+      }
+      
+      var dashboardText = document.getElementById("dashboardText");
+      if (dashboardText) {
+        dashboardText.addEventListener("click", function (e) {
+          window.location.href = "./dashboard.html";
+        });
+      }
+      
+      var rectangle7 = document.getElementById("rectangle7");
+      if (rectangle7) {
+        rectangle7.addEventListener("click", function (e) {
+          window.location.href = "./places-visited.html";
+        });
+      }
+      
+      var vectorIcon = document.getElementById("vectorIcon");
+      if (vectorIcon) {
+        vectorIcon.addEventListener("click", function (e) {
+          window.location.href = "./dashboard.html";
+        });
+      }
+      </script>
+  </body>
+</html>
